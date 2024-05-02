@@ -1,0 +1,3 @@
+br\com\sicro\vanishplugin\listeners\vanishlistener.class
+br\com\sicro\vanishplugin\commands\vanishcommand.class
+br\com\sicro\vanishplugin\Main.class

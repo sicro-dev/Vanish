@@ -1,0 +1,6 @@
+name: vanishplugin
+version: '${project.version}'
+main: br.com.sicro.vanishplugin.Main
+commands:
+  v:
+    description: Vanish command.

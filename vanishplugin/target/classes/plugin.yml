@@ -1,0 +1,6 @@
+name: vanishplugin
+version: '1.0.0'
+main: br.com.sicro.vanishplugin.Main
+commands:
+  v:
+    description: Vanish command.
